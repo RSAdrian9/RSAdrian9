@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Adrián Ruiz Sánchez</h1>
 <h3 align="center">A passionate full-stack developer from Spain</h3>
 
+- 🌱 I’m currently learning **Ionic, Angular...**
+
+- 💬 Ask me about **Java, HTML, SQL, Linux...**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/adrián-ruiz-sánchez-b89756222" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adrián-ruiz-sánchez-b89756222" height="30" width="40" /></a>
@@ -11,6 +15,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rsadrian9&show_icons=true&locale=en&layout=compact" alt="rsadrian9" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rsadrian9&show_icons=true&locale=en" alt="rsadrian9" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rsadrian9&" alt="rsadrian9" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=rsadrian9&show_icons=true&locale=en" alt="rsadrian9" /></p>
